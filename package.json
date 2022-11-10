@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "mongoose": "^6.7.2",
+    "yargs": "^17.6.2"
+  },
+  "name": "mxxmongoosecli",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mmccart3/mxxMongooseCLI.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mmccart3/mxxMongooseCLI/issues"
+  },
+  "homepage": "https://github.com/mmccart3/mxxMongooseCLI#readme"
+}
